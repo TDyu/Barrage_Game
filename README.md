@@ -1,6 +1,8 @@
 # Barrage_Game
 (DS Project) Barrage Game with Processing Java ver.
 
+# （大二的時候資料結構的生的作業，現在只是傳上來，沒有維護了）
+
 # 一、事前安裝:
 ## 1. 執行
 - **無論使用Processgin打開專案或是直接使用.exe，執行遊戲前都請務必先安裝data裡的字體，否則字體顯示會跑位。**
